@@ -1,0 +1,60 @@
+.main {
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#title {
+    color: blue;
+}
+#name{
+    color:darkblue;
+}
+#ps1 {
+    background-color: #9999ff;
+}
+#ps2 {
+    background-color: #8888ff;
+}
+#ps3 {
+    background-color: #7777ff;
+}
+#ps4 {
+    background-color: #6666ff;
+}
+#ps5 {
+    background-color: #5555ff;
+}
+.info{
+    font-size: 20px;
+}
+.img {
+    font-size: 12px;
+}
+img {
+    width: 300px;
+}
+#first{
+    font-family: Verdana;
+    color: red;
+    background-color: lightblue;
+}
+#second{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+    background-color: lightgreen;
+}
+#third{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellowgreen;
+    background-color: lightpink;
+}
+#fourth{
+    font-family: cursive;
+    color: green;
+    background-color: lightsalmon;
+}
+#fifth{
+    font-family: fantasy;
+    color: blue;
+    background-color: lightyellow;
+}
